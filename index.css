@@ -1,0 +1,42 @@
+.bgImage {
+  background-image: url("https://assets.ccbp.in/frontend/react-js/congrats-card-bg.png");
+  background-size: cover;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: "Roboto";
+}
+
+.card {
+  background-color: #cffafe;
+  height: 300px;
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: "Roboto";
+}
+
+.image {
+  width: 100px;
+}
+
+.name {
+  color: #1e293b;
+  font-size: 14px;
+  font-weight: bold;
+}
+.instituteName {
+  color: #1e293b;
+  font-size: 11px;
+  text-align: center;
+  margin-top: -10px;
+  font-weight: bold;
+}
+
+.image-watch {
+  width: 55px;
+}
